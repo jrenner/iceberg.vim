@@ -1,9 +1,12 @@
-Iceberg
+Iceberg (jrenner modified version)
 =======
 
 
 Overview
 --------
+
+##This is a modified version of the iceberg color theme
+
 Iceberg is a dark color scheme for Vim. It brings a cool-headed perspective for
 your happy coding.
 
