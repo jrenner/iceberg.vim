@@ -71,7 +71,7 @@ hi! Statement ctermfg=110 gui=NONE guifg=#84a0c6
 hi! StatusLine cterm=reverse ctermbg=234 ctermfg=245 gui=reverse guibg=#17171b guifg=#818596 term=reverse
 hi! StatusLineNC cterm=reverse ctermbg=238 ctermfg=233 gui=reverse guibg=#3e445e guifg=#0f1117
 hi! StorageClass ctermfg=110 guifg=#84a0c6
-hi! String ctermfg=109 guifg=#89b8c2
+hi! String ctermfg=109 guifg=#385
 hi! Structure ctermfg=109 guifg=#89b8c2
 hi! TabLine cterm=NONE ctermbg=245 ctermfg=234 gui=NONE guibg=#818596 guifg=#17171b
 hi! TabLineFill cterm=reverse ctermbg=234 ctermfg=245 gui=reverse guibg=#17171b guifg=#818596
